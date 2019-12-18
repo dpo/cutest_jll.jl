@@ -1,0 +1,27 @@
+[[CUTEst]]
+arch = "x86_64"
+git-tree-sha1 = "e56c605ee3d9bb91a643f3d48fee9c2192d41c36"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[CUTEst.download]]
+    sha256 = "f2370007ca57f61c969864f189eb7d8201ec43f0f624a9dcbbc33d5e5b157e9f"
+    url = "https://github.com/dpo/cutest_jll.jl/releases/download/CUTEst-v0.1.0+0/CUTEst.v0.1.0.x86_64-apple-darwin14-libgfortran5.tar.gz"
+[[CUTEst]]
+arch = "x86_64"
+git-tree-sha1 = "5056a48701367ca625ff64a248b68bf42ab5f1d2"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[CUTEst.download]]
+    sha256 = "7d12e8dc1ce9cd351f3e19d6cd27218fd0d09e33dbc50e898f32c6d582677abd"
+    url = "https://github.com/dpo/cutest_jll.jl/releases/download/CUTEst-v0.1.0+0/CUTEst.v0.1.0.x86_64-apple-darwin14-libgfortran3.tar.gz"
+[[CUTEst]]
+arch = "x86_64"
+git-tree-sha1 = "9b557f6f7b62c6aca2bfe62883712d57d217de0c"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[CUTEst.download]]
+    sha256 = "7b21b0d957ed9496d6f1180f647527b035b9c9b40588ea0c35dc86429ae43906"
+    url = "https://github.com/dpo/cutest_jll.jl/releases/download/CUTEst-v0.1.0+0/CUTEst.v0.1.0.x86_64-apple-darwin14-libgfortran4.tar.gz"
